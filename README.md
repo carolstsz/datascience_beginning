@@ -3,6 +3,8 @@
 # Ana Carolina Souza
 <sub>Graduada em Ciências Contábeis e Mestre em Contabilidade e Finanças</sub>
 
+Dando início à jornada de Data Science.
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ana-carolina-souza-96a319b0/)
 
