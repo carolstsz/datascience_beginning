@@ -1,7 +1,7 @@
 
 
 # Ana Carolina Souza
-<sub>Graduada em Ciências Contábeis e Mestre em Contabilidade e Finanças</sub>
+<sub>Graduada em Ciências Contábeis e Mestre em Contabilidade e Finanças (UFES)</sub>
 
 Meu primeiro contato com a programação foi no Mestrado, que me permitiu desenvolver meu pensamento crítico e habilidades de resolver problemas. 
 Desde então tenho o objetivo de aprimorar meus conhecimentos na área e aplicá-los da melhor forma.
